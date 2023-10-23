@@ -1,1 +1,1 @@
-# Fix-my-code-0
+This repository is for debugging practices in different languages
